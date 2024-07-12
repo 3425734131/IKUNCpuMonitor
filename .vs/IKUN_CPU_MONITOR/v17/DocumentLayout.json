@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desk\\C#\\IKUN_CPU_MONITOR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA1B206-F90B-4001-B46D-B0C1FE19D9EA}|IKUN_CPU_MONITOR\\IKUN_CPU_MONITOR.csproj|d:\\desk\\c#\\ikun_cpu_monitor\\ikun_cpu_monitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA1B206-F90B-4001-B46D-B0C1FE19D9EA}|IKUN_CPU_MONITOR\\IKUN_CPU_MONITOR.csproj|solutionrelative:ikun_cpu_monitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA1B206-F90B-4001-B46D-B0C1FE19D9EA}|IKUN_CPU_MONITOR\\IKUN_CPU_MONITOR.csproj|D:\\Desk\\C#\\IKUN_CPU_MONITOR\\ikun_cpu_monitor\\workapplicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA1B206-F90B-4001-B46D-B0C1FE19D9EA}|IKUN_CPU_MONITOR\\IKUN_CPU_MONITOR.csproj|solutionrelative:ikun_cpu_monitor\\workapplicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA1B206-F90B-4001-B46D-B0C1FE19D9EA}|IKUN_CPU_MONITOR\\IKUN_CPU_MONITOR.csproj|D:\\Desk\\C#\\IKUN_CPU_MONITOR\\ikun_cpu_monitor\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{CBA1B206-F90B-4001-B46D-B0C1FE19D9EA}|IKUN_CPU_MONITOR\\IKUN_CPU_MONITOR.csproj|solutionrelative:ikun_cpu_monitor\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA1B206-F90B-4001-B46D-B0C1FE19D9EA}|IKUN_CPU_MONITOR\\IKUN_CPU_MONITOR.csproj|D:\\Desk\\C#\\IKUN_CPU_MONITOR\\ikun_cpu_monitor\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA1B206-F90B-4001-B46D-B0C1FE19D9EA}|IKUN_CPU_MONITOR\\IKUN_CPU_MONITOR.csproj|solutionrelative:ikun_cpu_monitor\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "D:\\Desk\\C#\\IKUN_CPU_MONITOR\\IKUN_CPU_MONITOR\\Utils.cs",
+              "RelativeDocumentMoniker": "IKUN_CPU_MONITOR\\Utils.cs",
+              "ToolTip": "D:\\Desk\\C#\\IKUN_CPU_MONITOR\\IKUN_CPU_MONITOR\\Utils.cs",
+              "RelativeToolTip": "IKUN_CPU_MONITOR\\Utils.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAtwBgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T04:32:59.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "D:\\Desk\\C#\\IKUN_CPU_MONITOR\\IKUN_CPU_MONITOR\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "IKUN_CPU_MONITOR\\Properties\\Settings.settings",
+              "ToolTip": "D:\\Desk\\C#\\IKUN_CPU_MONITOR\\IKUN_CPU_MONITOR\\Properties\\Settings.settings",
+              "RelativeToolTip": "IKUN_CPU_MONITOR\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-07-12T04:07:38.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkApplicationContext.cs",
+              "DocumentMoniker": "D:\\Desk\\C#\\IKUN_CPU_MONITOR\\IKUN_CPU_MONITOR\\WorkApplicationContext.cs",
+              "RelativeDocumentMoniker": "IKUN_CPU_MONITOR\\WorkApplicationContext.cs",
+              "ToolTip": "D:\\Desk\\C#\\IKUN_CPU_MONITOR\\IKUN_CPU_MONITOR\\WorkApplicationContext.cs",
+              "RelativeToolTip": "IKUN_CPU_MONITOR\\WorkApplicationContext.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAEgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T02:53:25.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Desk\\C#\\IKUN_CPU_MONITOR\\IKUN_CPU_MONITOR\\Program.cs",
+              "RelativeDocumentMoniker": "IKUN_CPU_MONITOR\\Program.cs",
+              "ToolTip": "D:\\Desk\\C#\\IKUN_CPU_MONITOR\\IKUN_CPU_MONITOR\\Program.cs",
+              "RelativeToolTip": "IKUN_CPU_MONITOR\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T05:36:15.558Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
