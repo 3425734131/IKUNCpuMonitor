@@ -11,4 +11,5 @@ Windows任务栏IKUN动画图标，根据CPU占用率调节速度。C#语言编�
 ![image](https://github.com/user-attachments/assets/8df45702-7324-4ca9-a8b4-4eed14ad49ea)
 
 ## 感谢
-代码纯手打，思路参考自: https://github.com/Kyome22/RunCat_for_windows/tree/main，留下个star再走吧。
+代码纯手打，思路参考自: https://github.com/Kyome22/RunCat_for_windows/tree/main
+留下个star再走吧。
